@@ -17,7 +17,7 @@ I'm also a **BCA graduate** 🎓 and a **tech enthusiast** 💻. I love **gaming
 * I'm always looking for new challenges and opportunities to grow. 📈
 * I'm also a bit of a nerd, so I love talking about all things tech. 🤓
 * When I'm not immersed in coding, you can find me exploring the realms of gaming and diving into thought-provoking books. 🎮📚
-* ***Bonus:*** I also like anime! ⚡😉:
+* ***Bonus:*** I also like anime! ⚡🤗
 
 <br>
 
@@ -34,12 +34,6 @@ I'm also a **BCA graduate** 🎓 and a **tech enthusiast** 💻. I love **gaming
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
 </p>
 
 
