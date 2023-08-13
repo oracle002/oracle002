@@ -20,7 +20,7 @@ I'm also a **BCA graduate** 🎓 and a **tech enthusiast** 💻. I love **gaming
 
 <br>
 
-If you're interested in learning more about me, feel free to check out my 🐈‍⬛:[GitHub profile](https://github.com/oracle002) or connect with me on 📫: [Mail](hrishiu002@gmail.com/).
+If you're interested in learning more about me, feel free to check out my :octocat::[GitHub profile](https://github.com/oracle002) or connect with me on 📫: [Mail](hrishiu002@gmail.com/).
 
 <br>
 
