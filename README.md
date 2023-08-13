@@ -17,6 +17,7 @@ I'm also a **BCA graduate** 🎓 and a **tech enthusiast** 💻. I love **gaming
 * I'm always looking for new challenges and opportunities to grow. 📈
 * I'm also a bit of a nerd, so I love talking about all things tech. 🤓
 * When I'm not immersed in coding, you can find me exploring the realms of gaming and diving into thought-provoking books. 🎮📚
+* ***Bonus:*** I also like anime! ⚡😉:
 
 <br>
 
