@@ -21,9 +21,41 @@ I'm also a **BCA graduate** 🎓 and a **tech enthusiast** 💻. I love **gaming
 
 <br>
 
-If you're interested in learning more about me, feel free to check out my :octocat::[GitHub profile](https://github.com/oracle002) or connect with me on 📫: [Mail](hrishiu002@gmail.com/).
+### Experince in 👇:
+
+<p align="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="40" height="40"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40"/> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+</p>
+
 
 <br>
+
+If you're interested in learning more about me, feel free to check out my :octocat::[GitHub profile](https://github.com/oracle002) or connect with me on 📫: [Mail](hrishiu002@gmail.com/).
+
+
+You can also connect with me on:
+<br>
+<a href="https://www.hackerrank.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="60"/>
+</a> 
+<a href="https://stackoverflow.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Overflow" width="60"/>
+</a>
 
 Thanks for reading! 😊
 
