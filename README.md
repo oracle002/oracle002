@@ -3,29 +3,47 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hrishikesh - GitHub Bio</title>
+  <title>Hrishikesh - GitHub Profile</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f8f8;
+      margin: 0;
+      padding: 20px;
+    }
+    .bio {
+      max-width: 600px;
+      margin: auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      background-color: white;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      font-size: 24px;
+      margin: 0 0 10px;
+    }
+    p {
+      margin: 0 0 15px;
+    }
+    .emoji {
+      font-size: 24px;
+      margin-right: 8px;
+    }
+  </style>
 </head>
 <body>
-  <h1>Hello there! 👋</h1>
-  <p>
-    I'm Hrishikesh, a tech enthusiast currently pursuing my MCA at Rajagiri College of Social Sciences. I hold a BCA degree and love diving into various aspects of technology.
-    When I'm not coding, you can find me immersed in the world of gaming or lost in the pages of a good book. 🎮📚
-  </p>
-  <h2>Education 🎓</h2>
-  <ul>
-    <li>Studying MCA at Rajagiri College of Social Sciences</li>
-    <li>BCA Graduate</li>
-  </ul>
-  <h2>Interests and Hobbies 🌟</h2>
-  <ul>
-    <li>Tech Enthusiast 👨‍💻</li>
-    <li>Gaming Enthusiast 🎮</li>
-    <li>Bookworm 📚</li>
-  </ul>
-  <h2>Connect with Me 📬</h2>
-  <ul>
-    <li>GitHub: <a href="https://github.com/your-username">github.com/your-username</a></li>
-    <li>Email: your-email@example.com</li>
-  </ul>
+  <div class="bio">
+    <h1><span class="emoji">👋</span> Hey there, I'm Hrishikesh</h1>
+    <p>
+      🎓 Studying MCA at Rajagiri College of Social Sciences<br>
+      🎓 BCA graduate<br>
+      👾 Tech enthusiast<br>
+      🎮 Gaming and 📚 Reading lover<br>
+    </p>
+    <p>
+      Find me on GitHub: <a href="https://github.com/your-username">github.com/your-username</a>
+    </p>
+  </div>
 </body>
 </html>
