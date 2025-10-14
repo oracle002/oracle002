@@ -1,58 +1,67 @@
+<!-- Beautiful GitHub Profile README for Hrishikesh -->
 
+<h1 align="center">👋 Hello there! I'm <strong>Hrishikesh</strong></h1>
 
-# Hello there! 👋 I'm **Hrishikesh** 👩‍💻</h1>
+<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
-<img align= "right" alt="Coding" width="380" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+🎓 I'm an **MCA Graduate** and also hold a **BCA degree**.  
+💻 A **tech enthusiast**, passionate about **learning, coding, and exploring** new technologies.  
+🎮 When I’m not coding, you’ll find me **gaming**, **reading**, or watching **anime**!
 
+---
 
-I'm a **MCA Graduate** 🎓.
-<br>
-I'm also a **BCA graduate** 🎓 and a **tech enthusiast** 💻. I love **gaming** 🎮 and **reading** 📖 in my free time.
+### 🌟 About Me
 
-<br>
+- 💡 Always eager to **learn new things** and explore the latest tech trends.  
+- 🚀 Love taking on **challenges** and growing through them.  
+- 🤓 A proud **tech nerd** who enjoys deep discussions about software and innovation.  
+- 🎮📚 In my downtime: **gaming**, **reading**, or diving into **anime** worlds!  
+- ⚡ Fun Fact: I can spend hours debugging and still call it “fun.” 😅  
 
-**Here's a little more about me:**
+---
 
-* I'm passionate about learning new things, especially in the tech space. 💡
-* I'm always looking for new challenges and opportunities to grow. 📈
-* I'm also a bit of a nerd, so I love talking about all things tech. 🤓
-* When I'm not immersed in coding, you can find me exploring the realms of gaming and diving into thought-provoking books. 🎮📚
-* ***Bonus:*** I also like anime! ⚡🤗
-
-<br>
-
-### Experince in 👇:
+### 🛠️ Tech Stack & Skills
 
 <p align="left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="40" height="40"/>
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40"/> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
 </p>
 
+---
 
-<br>
+### 📫 Let's Connect!
 
-If you're interested in learning more about me, feel free to check out my :octocat::[GitHub profile](https://github.com/oracle002) or connect with me on 📫: [Mail](hrishiu002@gmail.com/).
+<p align="left">
+  <a href="mailto:hrishiu002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+  <a href="https://github.com/oracle002"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" alt="GitHub Badge"/></a>
+  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" alt="HackerRank Badge"/></a>
+  <a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/StackOverflow-F48024?logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/></a>
+</p>
 
+---
 
-You can also connect with me on:
-<br>
-<a href="https://www.hackerrank.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="60"/>
-</a> 
-<a href="https://stackoverflow.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Overflow" width="60"/>
-</a>
+### 🧩 Fun Zone
 
-Thanks for reading! 😊
-![Metrics](https://metrics.lecoq.io/oracle002?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
-  </div>
-</body>
-</html>
+- 🧠 Currently learning: **Improving my DSA and Doing some Freelance Works**  
+- 🎯 Goal for 2025: Contribute to more **Working on DSA**  
+- 🕹️ Favorite Game: *Red Dead Redemption 2* 🤠  
+- 📚 Favorite Genres: Sci-fi, Mystery, and Tech Philosophy  
+
+---
+
+### 📊 GitHub Metrics
+
+![Metrics](https://metrics.lecoq.io/oracle002?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FCalcutta)
+
+---
+
+<p align="center">
+  <i>✨ Thanks for visiting my profile! Let's create something amazing together. ✨</i>
+</p>
